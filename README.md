@@ -15,8 +15,7 @@ I didn't go further into looking out to deploying, but maybe later in the future
 - in `.\spotify\credentials(example).py`, fill the empty strings there with your own credentials from the dashboard, after that, rename it to `credentials.py`(it's important)
 - with all that set, on your browser, use the url `http://127.0.0.1:8000/` to **Cruise on-online**
 
-> **Note (Warning)**
-<br>
+> **Note (Warning)**: 
 If you want to adjust to do anything...make sure you understand the flow and procedures, I'll advice you learn by watch the [tutorial videos](https://www.youtube.com/watch?v=Lsq9oRZ2WiU&list=RDCMUC4JX40jDee_tINbkjycV4Sg&start_radio=1&rv=Lsq9oRZ2WiU&t=0), or message me for guidiance tho🙄😏.
 
 ## How to use it
@@ -31,7 +30,7 @@ Using it is simple, the song is played on spotify,but the app communicates with 
 * Type in a room code (received from the host)
 * you'll vote for a song to be skipped, only the host can skip a song, however if a certain number of votes is met, the app will skip (majority carries the vote😄)
 
->Note:<br>
+>Note:
 - If the host leaves the room, everyone leaves
 - Except the host's account is a premium spotify account, nobody can skip, just pause, Yes!....it's Spotify's thing, not the App😏.
 
