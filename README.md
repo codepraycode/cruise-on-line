@@ -1,6 +1,6 @@
+<<<<<<< HEAD
 # Cruise on-line
-A web based friends platform. Music Controller
-
+A Web based music controller, a project while learning rest-framework and working with Spotify's Api, It was fun on my side😋.
 # Story
 I was learning django rest framework and join @techwithtim on a youtube series where we built a web based music controller using Spotify's API.
 I followed through the tutorial,learnt a lot and built it succesfully, added some features to the app and Here it is😂
@@ -51,3 +51,6 @@ that's all, you should watch his [video](https://www.youtube.com/watch?v=Lsq9oRZ
 **Tech with Tim** @techwithtim, you should check out his [youtube channel](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
 
 also check watch the [tutorial i meantioned i watch](https://www.youtube.com/watch?v=Lsq9oRZ2WiU&list=RDCMUC4JX40jDee_tINbkjycV4Sg&start_radio=1&rv=Lsq9oRZ2WiU&t=0)
+=======
+
+>>>>>>> b5e8bc2cd5809de088c6aa362f4e74ab85cfdb4c
