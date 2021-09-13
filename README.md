@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Cruise on-line
 A Web based music controller, a project while learning rest-framework and working with Spotify's Api, It was fun on my side😋.
 # Story
@@ -52,5 +51,3 @@ that's all, you should watch his [video](https://www.youtube.com/watch?v=Lsq9oRZ
 
 also check watch the [tutorial i meantioned i watch](https://www.youtube.com/watch?v=Lsq9oRZ2WiU&list=RDCMUC4JX40jDee_tINbkjycV4Sg&start_radio=1&rv=Lsq9oRZ2WiU&t=0)
 =======
-
->>>>>>> b5e8bc2cd5809de088c6aa362f4e74ab85cfdb4c
