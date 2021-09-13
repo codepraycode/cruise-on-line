@@ -46,7 +46,4 @@ that's all, you should watch his [video](https://www.youtube.com/watch?v=Lsq9oRZ
 
 ## Credits
 
-**Tech with Tim** @techwithtim, you should check out his [youtube channel](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
-
-also check watch the [tutorial i meantioned i watch](https://www.youtube.com/watch?v=Lsq9oRZ2WiU&list=RDCMUC4JX40jDee_tINbkjycV4Sg&start_radio=1&rv=Lsq9oRZ2WiU&t=0)
-=======
+**Tech with Tim** @techwithtim, you should check out his [youtube channel](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) also check watch the [tutorial i meantioned i watch](https://www.youtube.com/watch?v=Lsq9oRZ2WiU&list=RDCMUC4JX40jDee_tINbkjycV4Sg&start_radio=1&rv=Lsq9oRZ2WiU&t=0).
